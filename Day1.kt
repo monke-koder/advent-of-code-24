@@ -3,7 +3,7 @@ import java.io.File
 
 fun main() {
     // Defining file path
-    val filePath = "C:\\Users\\Talha\\Downloads\\Advent of Code\\Day1Input.txt"
+    val filePath = "C:\\Users\\Talha\\Downloads\\advent-of-code-24\\Day1Input.txt"
 
     // Initializing mutable lists to store the values
     val leftColumn = mutableListOf<Int>()
